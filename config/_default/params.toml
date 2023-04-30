@@ -1,0 +1,11 @@
+# Homepage Config
+isSinglePage = true
+
+# Meta Config
+description = "Hello"
+
+# Header Configuration
+avatar = "img/mvplogo.png"
+
+[emoji]
+enableEmoji = true

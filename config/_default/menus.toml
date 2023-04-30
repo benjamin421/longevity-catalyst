@@ -1,0 +1,57 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[main]]
+    identifier = "posts"
+    name = "Projects"
+    url = "/projects"
+    weight = 2
+
+# [[main]]
+#    identifier = "keywords"
+#    name = "Keywords"
+#    url = "/keywords"
+#    weight = 3
+
+# [[main]]
+#    identifier = "skills"
+#    name = "Skills"
+#    url = "/skills"
+#    weight = 4
+
+[[main]]
+    identifier = "submit"
+    name = "Submit a Project"
+    url = "https://consciousrepo.typeform.com/opsciproject"
+    weight = 4
+
+[[main]]
+    identifier = "join"
+    name = "Join as Engineer"
+    url = "https://consciousrepo.typeform.com/project-apply"
+    weight = 3
+
+[[main]]
+    identifier = "donate"
+    name = "Donate"
+    url = "https://venmo.com/u/BenjaminAnderson"
+    weight = 5
+
+
+
+# Social Media Configuration
+
+[[social]]
+    identifier = "email"
+    name = "Email"
+    url = "mailto:ben@aion.bio"
+    weight = 2
+
+[[social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/benjamin421"
+    weight = 3
