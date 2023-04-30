@@ -6,6 +6,8 @@ Longevity Catalyst is a longevity-focused open science platform, designed to bri
 
 Inspired by renowned platforms such as Kaggle, Amazon's Mechanical Turk, Task Rabbit, GitHub, and Quora, Longevity Catalyst will strive to create a thriving ecosystem that fosters collaboration, knowledge sharing, and problem-solving to tackle some of the most pressing challenges in the longevity space that are under-resourced.
 
+---
+
 **The Current Platform Offers the Following:**
 
 - Curated Projects: Researchers can propose well-defined projects with clear objectives, success criteria, and optional rewards to attract the best talent who want to contribute.
@@ -25,3 +27,9 @@ Inspired by renowned platforms such as Kaggle, Amazon's Mechanical Turk, Task Ra
 - Secure and Flexible: Users can decide whether challenge outcomes remain confidential or become public, and our platform supports secure external payment options like PayPal and GitCoin.
 
 Join Longevity Catalyst today, and become part of a growing community of innovators working together to shape a healthier, more vibrant future for all. Start by exploring challenges, sharing your expertise, and making a lasting impact on the world of longevity.
+
+---
+
+**Contributors:**
+- [Leon Peshkin](https://kirschner.hms.harvard.edu/people/leon-peshkin)
+- [Benjamin Anderson](https://www.thebenjam.in/)
