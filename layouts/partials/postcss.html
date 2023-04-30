@@ -1,7 +1,7 @@
 {{- $styles := resources.Get . | postCSS (dict "config" "./assets/config/postcss.config.js") -}}
 {{- if eq hugo.Environment "development" -}}
-<link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/benjamin421/longevity-catalyst/main/themes/lowkey/assets/css/main.css">
 {{ else -}}
 {{- $styles := $styles| minify | fingerprint | resources.PostProcess -}}
-<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/benjamin421/longevity-catalyst/main/themes/lowkey/assets/css/main.css" integrity="{{ $styles.Data.Integrity }}">
 {{ end -}}
