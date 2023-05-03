@@ -31,5 +31,5 @@ Join Longevity Catalyst today, and become part of a growing community of innovat
 ---
 
 **Contributors:**
-- [Leon Peshkin](https://kirschner.hms.harvard.edu/people/leon-peshkin)
+- [Leon Peshkin](https://www.linkedin.com/in/leon-peshkin-2b085b/)
 - [Benjamin Anderson](https://www.thebenjam.in/)
